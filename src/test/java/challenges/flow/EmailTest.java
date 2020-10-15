@@ -1,5 +1,8 @@
 package challenges.flow;
 
+import challenges.flow.EmailAdapter;
+import challenges.flow.EmailApp;
+import challenges.flow.UserAgent;
 import flow.*;
 import org.junit.Assert;
 import org.junit.Test;
